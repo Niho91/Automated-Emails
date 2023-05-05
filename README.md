@@ -4,4 +4,4 @@
 
 run 'python install -r requirements.txt'
 
-https://www.linkedin.com/resume-builder/urn:li:fsd_memberResume:60439028/?edit=true
+https://github.com/Niho91/Flatemates-Bill/files/11408504/Resume-Nihad-Vili_.pdf
